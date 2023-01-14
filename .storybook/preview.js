@@ -1,3 +1,3 @@
-import '../src/app.css';
+import 'tailwindcss/tailwind.css'
 
-export const parameters = {};
+export const parameters = {}
